@@ -1,4 +1,4 @@
-const users = [
+const vegetables = [
     {
         id: 1,
         name: 'Carrot',

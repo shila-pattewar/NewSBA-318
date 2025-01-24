@@ -30,3 +30,5 @@ const protien= [
       "protein_content": "6g"
     }
   ]
+
+module.exports = protien;
